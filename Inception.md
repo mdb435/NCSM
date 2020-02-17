@@ -119,28 +119,28 @@ Interviewee 1:
     
   Interviewee 7: Laura
   Who was interviewed and who participated in the interview?
-    -Laura Montini, a sophomore studying nursing at NAU
+  Laura Montini, a sophomore studying nursing at NAU
   
   When?
-    -02/09/2020
+  02/09/2020
   
   Consumer Segment
-    -College Students, freshman mainly because they do not have
+  College Students, freshman mainly because they do not have
   
   Key Insights
-    -Direct messaging is important, profile pictures, create joinable groups based off  of interests
+  Direct messaging is important, profile pictures, create joinable groups based off  of interests
   
   Representative Quotes
-    -“The idea of having joinable groups created based off majors would be very cool, and probably would be super useful to kids that         don’t have friends in their classes.”
+  “The idea of having joinable groups created based off majors would be very cool, and probably would be super useful to kids that         don’t have friends in their classes.”
     
   Hypotheses that were validated
-  -Consumer Segment hypothesis was valid
-  -Grouping by major/interest is a good idea
-  -Would be useful to incoming college freshman
+  Consumer Segment hypothesis was valid
+  Grouping by major/interest is a good idea
+  Would be useful to incoming college freshman
 
   
   Assesment
-    -This app would be nice to have, it would be useful to freshman or transfer students
+  This app would be nice to have, it would be useful to freshman or transfer students
   
   ========================================
     
