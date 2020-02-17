@@ -17,52 +17,82 @@ that much better.
 
 Interviewee 1:
   Who was interviewed and who participated in the interview?
+  Alex Croydon, a Junior Environmental Sustainabilities Major at NAU, interviewed by Ethan Donnelly.
   
   When?
+  February 13th 2020
   
   Consumer Segment
+  UpperClassmen
   
   Key Insights
-  
+  That this is most beneficial to underclassmen.
+  Liked the concept of being more connected with the University.
+  An easy to use interface makes it most appealing.
+
   Representative Quotes
+  “I really like the idea of being able to connect more with students, there were times that I wanted to make more friends and didn’t     know where to go to do that.”
   
   Hypotheses that were validated
-  
+  To me it seems as if Alex really likes the idea of being able to come into contact with more people on campus that you may not have     been able to do otherwise without this app.
+
   Assessment
+  Nice to have
   
   =========================================
   
   Interviewee 2:
   Who was interviewed and who participated in the interview?
+  Sabrina Allevato, a Grad student at NAU, interviewed by Ethan Donnelly.
   
   When?
+  February 13th 2020
   
   Consumer Segment
+  University Staff
   
   Key Insights
-  
+  This could be used among many universities.
+  Very practical in making college life easier.
+
   Representative Quotes
+  “There really needs to be an app like this that can bring students together, I like that it’s serving the good of the students.”
   
+  “This could help, I know lots of students who struggle with making friends maybe because they are shy or don’t know how they should go    about it.”
+
   Hypotheses that were validated
-  
+  Sabrina, although she is a grad student at NAU seems to appreciate what this app is trying to accomplish and sees that value that it     can have with trying to have students become better connected with their community.
+
   Assessment
+  Must have
   
   ========================================
     
   Interviewee 3:
   Who was interviewed and who participated in the interview?
-  
+  Michael Wooll a Transfer Student at CSU Chico studying Computer Science, interviewed by Ethan Donnelly.
+
   When?
+  February 10th 2020
   
   Consumer Segment
+  Transfer Student
   
   Key Insights
+  Could encourage stalking
+  Very beneficial to Transfer Students
+  Give students a platform to get involved
   
   Representative Quotes
+  “I like this idea because as a Transfer student myself getting connected with a new University can be scary and this could be used as   a means to make that transition easier.”
   
+  “Another thing that I always notice on campus is there is always tons of flyers posted on bulletin boards across campus and sometimes   you see something you would want to attend and it already happened. Sometimes you wish that you could have known about that beforehand   and this could make it easier to get event details out to students easier.”
+
   Hypotheses that were validated
-  
+  Michael loved this idea of an app that can connect students with their community, especially when students are in certain               circumstances where they are at a disconnect with their campus. He knows how hard it can be to connect and thinks this could be a good   way to do so.
+
   Assessment
+  Must have
   
   ========================================
     
