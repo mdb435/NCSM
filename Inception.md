@@ -28,7 +28,7 @@ Interviewee 1:
   
   Hypotheses that were validated
   
-  Assesment
+  Assessment
   
   =========================================
   
@@ -45,7 +45,7 @@ Interviewee 1:
   
   Hypotheses that were validated
   
-  Assesment
+  Assessment
   
   ========================================
     
@@ -62,7 +62,7 @@ Interviewee 1:
   
   Hypotheses that were validated
   
-  Assesment
+  Assessment
   
   ========================================
     
@@ -96,6 +96,7 @@ Interviewee 1:
   ========================================
     
   Interviewee 5: Celine
+  
   Who was interviewed and who participated in the interview?
   
   Celine Ramos, a nursing student living in Los Angeles, CA.
@@ -121,12 +122,8 @@ Interviewee 1:
   
   Student life can be made much more convenient using this app.
   
-  Assesment
-  Must Have: Social connection to other students/clubs
-  
-  Nice to have: Ability to see other amenities on campus. i.e Bus routes, operating hours of facilities
-  
-  Don't Care: Email integration with professors/staff
+  Assessment
+  Nice to have
   
   ========================================
     
@@ -143,7 +140,7 @@ Interviewee 1:
   
   Hypotheses that were validated
   
-  Assesment
+  Assessment
   
   ========================================
     
@@ -169,7 +166,7 @@ Interviewee 1:
   Would be useful to incoming college freshman
 
   
-  Assesment
+  Assessment
   Nice to have
   
   ========================================
@@ -187,7 +184,7 @@ Interviewee 1:
   
   Hypotheses that were validated
   
-  Assesment
+  Assessment
   
   ========================================
     
@@ -204,7 +201,7 @@ Interviewee 1:
   
   Hypotheses that were validated
   
-  Assesment
+  Assessment
   
   ========================================
     
@@ -221,7 +218,7 @@ Interviewee 1:
   
   Hypotheses that were validated
   
-  Assesment
+  Assessment
   
   ========================================
   
