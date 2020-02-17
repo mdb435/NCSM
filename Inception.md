@@ -66,55 +66,50 @@ Interviewee 1:
   
   ========================================
     
-  Interviewee 4:
+  Interviewee 4: Cameron
+  
   Who was interviewed and who participated in the interview?
+  Cameron McCathern, NAU Graduate, BFA.
   
   When?
+  February 12th, 2020
   
   Consumer Segment
+  Transfer Student
   
   Key Insights
+  Being more connected with events on campus in one location.
+  Having information a student would need in a working web layout.
   
   Representative Quotes
+  "Almost every time I would try to navigate through NAU's website to find what I'm looking for, I 
+  would almost always find broken links. There are too many ways to get to the same place and it is
+  very confusing."
   
   Hypotheses that were validated
+  It seems my interviewee was not too interested in the social media aspect, but the idea of keeing
+  all of the needed information in one concise location, which lines up with our statement of "...
+  making life on campus more conveinient".
   
   Assesment
+  Nice to have
   
   ========================================
     
-  Interviewee 5: Celine
+  Interviewee 5:
   Who was interviewed and who participated in the interview?
-  
-  Celine Ramos, a nursing student living in Los Angeles, CA.
   
   When?
   
-  February 11, 2020
-  
   Consumer Segment
-  
-  Celine sees a need for this app for new students of any level just getting used to a new campus.
   
   Key Insights
   
-  The use of social media can help students become more engaged in their student body and community.
-  
   Representative Quotes
-  
-  “I would love to use this app on my current campus. The nursing school on campus is kind of segregated from the rest of the school so   it would be nice to know what was going on daily.”
-
   
   Hypotheses that were validated
   
-  Student life can be made much more convenient using this app.
-  
   Assesment
-  Must Have: Social connection to other students/clubs
-  
-  Nice to have: Ability to see other amenities on campus. i.e Bus routes, operating hours of facilities
-  
-  Don't Care: Email integration with professors/staff
   
   ========================================
     
