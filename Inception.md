@@ -290,36 +290,45 @@ Interviewee 1:
     
   Interviewee 8:
   Who was interviewed and who participated in the interview?
-  
+  Ronak Patel, a Junior Business Management Major at NAU
   When?
-  
+  February 16, 2020
   Consumer Segment
-  
+  - He thought that college students as a whole could benefit from this but that freshman would benefit the most.
+  - He also thought those who aren't as social would benefit from this as well
+  - He also thought that people who like social media would have a easy transition to using this app
   Key Insights
-  
+  - Would like to have links to other school events upcoming
+  - He was concerned with the linking of your school account because being monitored by the school could stray some people away
   Representative Quotes
-  
+  “Having the school watch what i post and message could make me not want to post non PG information etc.”
   Hypotheses that were validated
-  
+  - Catering to college students validated one of our hypothesis
+  - Building new relationships would benefit from this social media
   Assessment
-  
+  Nice to have
+  - He thought it would be nice for some people who were a little more shy but that he could have benefited from it.
   ========================================
     
   Interviewee 9:
   Who was interviewed and who participated in the interview?
-  
+  Parker Marschel, junior studying computer science at NAU
   When?
-  
+  February 15, 2020
   Consumer Segment
-  
+  - Parker is a upperclassmen
+  - He believed our best consumer segment would be the incoming freshman especially those coming from out of state
+  - Also for foreign exchange students, they’d be able to meet other students easier
   Key Insights
-  
+  - He believed that upperclassmen would probably use it more for making study groups and that a messaging service would be a necessity.
   Representative Quotes
-  
+  “Being able to message other students based on the same interests or clubs would be a very useful tool for newer students to the college”
   Hypotheses that were validated
-  
+  - His views on the Consumer segment matched our hypothesis
+  - Being able to see students that have the same interests or hobbies as you was very useful
   Assessment
-  
+  Nice to have:
+  - Wouldn’t be a necessity for Parker but he views as if when he was a freshman he probably would have tried it out. But that he didn't absolutely need it.
   ========================================
     
   Interviewee 10:
