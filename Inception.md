@@ -66,20 +66,32 @@ Interviewee 1:
   
   ========================================
     
-  Interviewee 4:
+  Interviewee 4: Cameron
   Who was interviewed and who participated in the interview?
+  Cameron McCathern, NAU Graduate, BFA
   
   When?
+  February 12th, 2020
   
   Consumer Segment
+  Transfer Student
   
   Key Insights
+  Being more connected with events on campus in one location.
+  Having information a student would need in a working web layout.
   
   Representative Quotes
+  “Almost every time I would try to navigate through NAU’s website to find what I’m looking for, I 
+  would almost always find broken links. There are too many ways to get to the same place and it is 
+  very confusing.”
   
   Hypotheses that were validated
+  It seemed my interviewee was not too interested in the social media aspect, but the idea of keeping 
+  all of the needed information in one concise location, which lines up with our statement of  
+  “...making life on campus more convenient”.
   
   Assesment
+  Nice to have
   
   ========================================
     
