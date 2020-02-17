@@ -2,11 +2,7 @@ D1. Inception
 
 1. Introduction
 
-  Our project is about making a web app that can be used by students so that they can develop a community that best fits them within the 
-University they are attending. This software will be solving the problem that some students may have on campus of connecting with others 
-and finding friends in university life. This can be a big problem with some students whether they be transfers or incoming freshman as 
-connecting with your community can be daunting to some but being connected with life on campus can make a students college experience 
-that much better.
+  Our project is about making a web app that can be used by students so that they can develop a community that best fits them 	within the University they are attending. This software will be solving the problem that some students may have on campus of   connecting with others and finding friends in university life. This can be a big problem with some students whether they be   transfers or incoming freshman as connecting with your community can be daunting to some but being connected with life on     campus can make a students college experience that much better.
 
 2. Initial value proposition and consumer segments
 
@@ -25,6 +21,7 @@ that much better.
     UpperClassmen
   
     University Faculty/Staff
+    
   
 
   
@@ -55,12 +52,12 @@ Interviewee 1:
 
   Representative Quotes
   
-  “I really like the idea of being able to connect more with students, there were times that I wanted to make more friends and didn’t     know where to go to do that.”
+  “I really like the idea of being able to connect more with students, there were times that I wanted to make more friends and 	 didn’t know where to go to do that.”
   
   
   Hypotheses that were validated
   
-  To me it seems as if Alex really likes the idea of being able to come into contact with more people on campus that you may not have     been able to do otherwise without this app.
+  To me it seems as if Alex really likes the idea of being able to come into contact with more people on campus that you may     not have been able to do otherwise without this app.
 
   Assessment
   
@@ -90,13 +87,13 @@ Interviewee 1:
 
   Representative Quotes
   
-  “There really needs to be an app like this that can bring students together, I like that it’s serving the good of the students.”
+  “There really needs to be an app like this that can bring students together, I like that it’s serving the good of the          students.”
   
-  “This could help, I know lots of students who struggle with making friends maybe because they are shy or don’t know how they should go    about it.”
+  “This could help, I know lots of students who struggle with making friends maybe because they are shy or don’t know how they    should go about it.”
 
   Hypotheses that were validated
   
-  Sabrina, although she is a grad student at NAU seems to appreciate what this app is trying to accomplish and sees that value that it     can have with trying to have students become better connected with their community.
+  Sabrina, although she is a grad student at NAU seems to appreciate what this app is trying to accomplish and sees that value   that it can have with trying to have students become better connected with their community.
 
   Assessment
   
@@ -128,9 +125,9 @@ Interviewee 1:
   
   Representative Quotes
   
-  “I like this idea because as a Transfer student myself getting connected with a new University can be scary and this could be used as   a means to make that transition easier.”
+  “I like this idea because as a Transfer student myself getting connected with a new University can be scary and this could     be used as   a means to make that transition easier.”
   
-  “Another thing that I always notice on campus is there is always tons of flyers posted on bulletin boards across campus and sometimes   you see something you would want to attend and it already happened. Sometimes you wish that you could have known about that beforehand   and this could make it easier to get event details out to students easier.”
+  “Another thing that I always notice on campus is there is always tons of flyers posted on bulletin boards across campus and    sometimes   you see something you would want to attend and it already happened. Sometimes you wish that you could have        known about that beforehand   and this could make it easier to get event details out to students easier.”
 
   Hypotheses that were validated
   
@@ -290,69 +287,120 @@ Interviewee 1:
     
   Interviewee 8:
   Who was interviewed and who participated in the interview?
+  
   Ronak Patel, a Junior Business Management Major at NAU
+  
   When?
+  
   February 16, 2020
+  
   Consumer Segment
-  - He thought that college students as a whole could benefit from this but that freshman would benefit the most.
-  - He also thought those who aren't as social would benefit from this as well
-  - He also thought that people who like social media would have a easy transition to using this app
+  
+  He thought that college students as a whole could benefit from this but that freshman would benefit the most.
+  
+  He also thought those who aren't as social would benefit from this as well
+  
+  He also thought that people who like social media would have a easy transition to using this app
+  
   Key Insights
-  - Would like to have links to other school events upcoming
-  - He was concerned with the linking of your school account because being monitored by the school could stray some people away
+  
+  Would like to have links to other school events upcoming
+  
+  He was concerned with the linking of your school account because being monitored by the school could stray some people away
+  
   Representative Quotes
+  
   “Having the school watch what i post and message could make me not want to post non PG information etc.”
+  
   Hypotheses that were validated
-  - Catering to college students validated one of our hypothesis
-  - Building new relationships would benefit from this social media
-  Assessment
-  Nice to have
-  - He thought it would be nice for some people who were a little more shy but that he could have benefited from it.
+  
+  Catering to college students validated one of our hypothesis
+  
+  Building new relationships would benefit from this social media
+  
+  Assessment:
+  
+  Nice to Have
+  
   ========================================
     
   Interviewee 9:
+  
   Who was interviewed and who participated in the interview?
+  
   Parker Marschel, junior studying computer science at NAU
+  
   When?
+  
   February 15, 2020
+  
   Consumer Segment
-  - Parker is a upperclassmen
-  - He believed our best consumer segment would be the incoming freshman especially those coming from out of state
-  - Also for foreign exchange students, they’d be able to meet other students easier
+  
+  Parker is a upperclassmen
+  
+  He believed our best consumer segment would be the incoming freshman especially those coming from out of state
+  
+  Also for foreign exchange students, they’d be able to meet other students easier
+  
   Key Insights
-  - He believed that upperclassmen would probably use it more for making study groups and that a messaging service would be a necessity.
+  
+  He believed that upperclassmen would probably use it more for making study groups and that a messaging service would be a     necessity.
+  
   Representative Quotes
-  “Being able to message other students based on the same interests or clubs would be a very useful tool for newer students to the college”
+  
+  “Being able to message other students based on the same interests or clubs would be a very useful tool for newer students to   the college”
+  
   Hypotheses that were validated
-  - His views on the Consumer segment matched our hypothesis
-  - Being able to see students that have the same interests or hobbies as you was very useful
+  
+  His views on the Consumer segment matched our hypothesis
+  
+  Being able to see students that have the same interests or hobbies as you was very useful
+  
   Assessment
-  Nice to have:
-  - Wouldn’t be a necessity for Parker but he views as if when he was a freshman he probably would have tried it out. But that he didn't absolutely need it.
+  
+  Nice to have
+  
   ========================================
     
-  Interviewee 10:
+  Interviewee 10: Zachariah
   Who was interviewed and who participated in the interview?
+  
+  Zachariah Houze
   
   When?
   
+  02/13/2020
+  
   Consumer Segment
+  
+  Believes this app would be useful for students of all kinds since connecting with others can be tough
   
   Key Insights
   
+  Thinks that the app could focus more on the social network side of things versus being an overall NAU app
+  
   Representative Quotes
+  
+  “A social app for the campus would make it easier for groups like my fraternity to recruit people of similar interests”
+  
+  “Freshman year was rough because a lot of people were scared to go out and meet others through different activities”
   
   Hypotheses that were validated
   
+  After the interview, it seemed that Zach backed up one or two of our hypotheses. He confirmed that underclassmen need a way   to connect with others. He also thought that an “events on campus” feature would be useful to all students.
+
+  
   Assessment
+  
+  Nice to have
   
   ========================================
   
   Final value proposition and consumer segments:
  
   Value Proposition
- 
-    NCSM will keep you connected with your university. With countless resources and social media features, NCSM is the go-to app for         college communication.
+  
+    NCSM will keep you connected with your university. With countless resources and social media features, NCSM is the go-to app for college communication.
 	
   Consumer Segments
 
