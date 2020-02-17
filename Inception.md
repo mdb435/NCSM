@@ -9,11 +9,18 @@ connecting with your community can be daunting to some but being connected with 
 that much better.
 
 2. Initial value proposition and consumer segments
-  Value Proposition:
+  Value Proposition: 
+  Communication and connectivity in your pocket. Meet people at your school with ease!
   
   Consumer Segments:
+  Incoming Freshmen
+  Club Members/Officers
+  Transfer Students
+  UpperClassmen
+  University Faculty/Staff
+
   
-3. Interview Summarys:
+3. Interviews Summary:
 
 Interviewee 1:
   Who was interviewed and who participated in the interview?
