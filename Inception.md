@@ -9,125 +9,173 @@ connecting with your community can be daunting to some but being connected with 
 that much better.
 
 2. Initial value proposition and consumer segments
+
   Value Proposition: 
-  Communication and connectivity in your pocket. Meet people at your school with ease!
+  
+    Communication and connectivity in your pocket. Meet people at your school with ease!
   
   Consumer Segments:
-  Incoming Freshmen
-  Club Members/Officers
-  Transfer Students
-  UpperClassmen
-  University Faculty/Staff
+  
+    Incoming Freshmen
+  
+    Club Members/Officers
+  
+    Transfer Students
+  
+    UpperClassmen
+  
+    University Faculty/Staff
+  
 
   
 3. Interviews Summary:
 
 Interviewee 1:
+
   Who was interviewed and who participated in the interview?
+  
   Alex Croydon, a Junior Environmental Sustainabilities Major at NAU, interviewed by Ethan Donnelly.
   
   When?
+  
   February 13th 2020
   
   Consumer Segment
+  
   UpperClassmen
   
   Key Insights
+  
   That this is most beneficial to underclassmen.
+  
   Liked the concept of being more connected with the University.
+  
   An easy to use interface makes it most appealing.
+  
 
   Representative Quotes
+  
   “I really like the idea of being able to connect more with students, there were times that I wanted to make more friends and didn’t     know where to go to do that.”
   
+  
   Hypotheses that were validated
+  
   To me it seems as if Alex really likes the idea of being able to come into contact with more people on campus that you may not have     been able to do otherwise without this app.
 
   Assessment
+  
   Nice to have
   
   =========================================
   
   Interviewee 2:
+  
   Who was interviewed and who participated in the interview?
+  
   Sabrina Allevato, a Grad student at NAU, interviewed by Ethan Donnelly.
   
   When?
+  
   February 13th 2020
   
   Consumer Segment
+  
   University Staff
   
   Key Insights
+  
   This could be used among many universities.
+  
   Very practical in making college life easier.
 
   Representative Quotes
+  
   “There really needs to be an app like this that can bring students together, I like that it’s serving the good of the students.”
   
   “This could help, I know lots of students who struggle with making friends maybe because they are shy or don’t know how they should go    about it.”
 
   Hypotheses that were validated
+  
   Sabrina, although she is a grad student at NAU seems to appreciate what this app is trying to accomplish and sees that value that it     can have with trying to have students become better connected with their community.
 
   Assessment
+  
   Must have
   
   ========================================
     
   Interviewee 3:
+  
   Who was interviewed and who participated in the interview?
+  
   Michael Wooll a Transfer Student at CSU Chico studying Computer Science, interviewed by Ethan Donnelly.
 
   When?
+  
   February 10th 2020
   
   Consumer Segment
+  
   Transfer Student
   
   Key Insights
+  
   Could encourage stalking
+  
   Very beneficial to Transfer Students
+  
   Give students a platform to get involved
   
   Representative Quotes
+  
   “I like this idea because as a Transfer student myself getting connected with a new University can be scary and this could be used as   a means to make that transition easier.”
   
   “Another thing that I always notice on campus is there is always tons of flyers posted on bulletin boards across campus and sometimes   you see something you would want to attend and it already happened. Sometimes you wish that you could have known about that beforehand   and this could make it easier to get event details out to students easier.”
 
   Hypotheses that were validated
+  
   Michael loved this idea of an app that can connect students with their community, especially when students are in certain               circumstances where they are at a disconnect with their campus. He knows how hard it can be to connect and thinks this could be a good   way to do so.
 
   Assessment
+  
   Must have
   
   ========================================
     
   Interviewee 4: Cameron
+  
   Who was interviewed and who participated in the interview?
+  
   Cameron McCathern, NAU Graduate, BFA
   
   When?
+  
   February 12th, 2020
   
   Consumer Segment
+  
   Transfer Student
   
   Key Insights
+  
   Being more connected with events on campus in one location.
+  
   Having information a student would need in a working web layout.
   
   Representative Quotes
+  
   “Almost every time I would try to navigate through NAU’s website to find what I’m looking for, I 
   would almost always find broken links. There are too many ways to get to the same place and it is 
   very confusing.”
   
   Hypotheses that were validated
+  
   It seemed my interviewee was not too interested in the social media aspect, but the idea of keeping 
   all of the needed information in one concise location, which lines up with our statement of  
   “...making life on campus more convenient”.
   
   Assesment
+  
   Nice to have
   
   ========================================
@@ -160,50 +208,82 @@ Interviewee 1:
   Student life can be made much more convenient using this app.
   
   Assessment
+  
   Nice to have
   
   ========================================
     
-  Interviewee 6:
+  Interviewee 6: Nick Knaggs
+  
   Who was interviewed and who participated in the interview?
+  
+  Nicholas Knaggs, Junior, Computer Science
   
   When?
   
+  02/10/2020
+  
   Consumer Segment
+  
+  College Students, specifically useful for freshmen and transfer students
+  
+  Would like for this app to connect students that are looking for friends
   
   Key Insights
   
+  Linking school accounts to their profile is important to keep people responsible to what they post
+  
+  By connecting other students, students will have an easier time building relationships
+  
   Representative Quotes
+  
+  “Freshman year was tough to connect with other students with similar interests. A place to connect with other students would make it     easier to enjoy the freshman experience” 
+
+  “If people were posting about things happening on campus, this would probably make me want to participate in campus events more often”
   
   Hypotheses that were validated
   
+  After finishing the interview, I concluded that the interviewee felt that he would use the app more to find events on campus and to     meet others. He felt that the current NAU app “NAUgo” does a fairly decent job at connecting students to the different university       features. However, he did seem to like the idea of having everything in one place. 
+
+  
   Assessment
+  
+  Nice to have
   
   ========================================
     
   Interviewee 7:
+  
   Who was interviewed and who participated in the interview?
+  
   Laura Montini, a sophomore studying nursing at NAU
   
   When?
+  
   02/09/2020
   
   Consumer Segment
+  
   College Students, freshman mainly because they may not have a ton of friends at a new University
   
   Key Insights
+  
   Direct messaging is important, profile pictures, create joinable groups based off  of interests
   
   Representative Quotes
-  “The idea of having joinable groups created based off majors would be very cool, and probably would be super useful to kids that don’t have friends in their classes.”
+  
+  “The idea of having joinable groups created based off majors would be very cool, and probably would be super useful to kids that don’t    have friends in their classes.”
   
   Hypotheses that were validated
+  
   Consumer Segment hypothesis was valid
+  
   Grouping by major/interest is a good idea
+  
   Would be useful to incoming college freshman
-
   
   Assessment
+  
   Nice to have
   
   ========================================
@@ -261,3 +341,18 @@ Interviewee 1:
   
   Final value proposition and consumer segments:
  
+  Value Proposition
+ 
+    NCSM will keep you connected with your university. With countless resources and social media features, NCSM is the go-to app for         college communication.
+	
+  Consumer Segments
+
+    Transfer Students
+
+    UpperClassmen
+
+    University Faculty/Staff
+
+    Club Members/Officers
+
+
