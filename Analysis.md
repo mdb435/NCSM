@@ -32,17 +32,17 @@ Below is a list of functional requirements for NCSM:
 
 1)  Create an account to interact with others
 
-2)  Provide a club tab that allows students to search for groups with similar interests
+2)  Provide a **club** tab that allows students to search for groups with similar interests
 
-3)  Feed that provides students with information or messages that they find relevant
+3)  Feed that provides **students** with information or **messages** that they find relevant
 
-4)  Filter feed to seeing everyones post or a certain clubs posts
+4)  Filter feed to seeing everyones **post** or a certain clubs **posts**
 
-5)  Calendar showing events on campus and other information added by user
+5)  **Calendar** showing **events** on campus and other information added by user
 
 6)  Add/follow other users with an account
 
-7)  Communicate with users privately
+7)  Communicate with **users** privately
 
 8)  Class schedule maps to a virtual map of campus
 
@@ -54,7 +54,7 @@ Below is a list of functional requirements for NCSM:
 Below is a list of non-functional requirements for NCSM:
 
 
-1) Security - The goal of security is to make sure student information is secure 
+1) Security - The goal of security is to make sure **student** information is secure 
 and cannot be accessed by anyone without the proper permissions.
 
 2) Readability - Our goal is to make our code as readable as possible in order to locate 
@@ -64,7 +64,7 @@ and fix issues efficiently.
 such as git. We strive to implement new features while making sure our system still works.
 
 4) Scalability - Our scalability goal is to be able to use the same logic and code to be able 
-to withstand anywhere from hundreds of students to tens of thousands students. 
+to withstand anywhere from hundreds of **students** to tens of thousands **students**. 
 
 5) Performance - Our app should run as smooth as possible regardless of the amount of users 
 currently using the app. Our goal is to make sure we constantly have a stable version of the 
@@ -76,13 +76,13 @@ Below is a use case description for NCSM:
 
 **Use Case**: Creating an account
 
-**Actor**: College Student
+**Actor**: College **Student**
 
-**Description**: The College Student can create a new account for the college social media application
+**Description**: The College **Student** can create a new account for the college social media application
 
-**Pre-Conditions**: The student is familiar with what the app is and how to use it
+**Pre-Conditions**: The **student** is familiar with what the app is and how to use it
 
-**Post-Conditions**: The student has an account to themselves
+**Post-Conditions**: The **student** has an account to themselves
 
 **Main Flow:**
 
@@ -110,16 +110,16 @@ Below is a use case description for NCSM:
 User Stories:
 
 
-  1)  As a transfer student, I want to be able to map the easiest route to all of my 
+  1)  As a transfer **student**, I want to be able to map the easiest route to all of my 
   classes on a given day.(priority # 2, approximately 10-12 hours)
   
-  2)  As a transfer student, I want to be able to be reminded of tasks and upcoming classes 
+  2)  As a transfer **student**, I want to be able to be reminded of tasks and upcoming classes 
   in one app.(priority # 4, approximately 20 hours)
   
-  3)  As a transfer student, I would like to know what is going on within the community 
+  3)  As a transfer **student**, I would like to know what is going on within the community 
   that I can be apart of.(priority # 3, approximately 10 hours)
   
-  4)  As an end user, I want a one stop shop for seeing posts, planning, and communicating. 
+  4)  As an end user, I want a one stop shop for seeing **posts**, planning, and communicating. 
   (priority # 1, approximately 5 hours)
 
 
@@ -224,3 +224,10 @@ User Stories:
 
   We included this class because we wanted the school to have as much interaction on 
   the platform as possible.
+
+
+**User** - The “ User class’ responsibilities  include:
+  * Being the parent class
+  * Logging in and out
+  
+  We included this class because this is how any user would interact with the system.
