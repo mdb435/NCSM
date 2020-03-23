@@ -41,51 +41,83 @@ will be used to enhance further software developments.
 
 
 User Stories:
+
 1. As a college student, I want a way to be more in touch with my fellow peers to get the most out of my college experience.
 2. As a college student, I would like this app because it would help me connect to my college community.
 
 Use Case: Direct messaging a friend
+
 Actor: College Student
+
 Description: The college student can message their friends on the app
+
 Pre-Conditions: The college student has an account
+
 Post-Conditions: Having the friend see the message and responds back
+
 Main Flow:
+
 1. The college student types up a message to have their friend see it
+
 2. The college student messages new person on their feed to maybe become friends
+
 Alternative Flows:
+
 1. The college student messaged someone who was on private and the message had to be accepted for the other student to see it.
+
 2. The message doesn't get accepted so the other student does not view it
 
 
+
 Use Case: Interact with feed
+
 Actor: College student
+
 Description: The college student can view the others students posts and be able to like and comment on the posts
+
 Pre-Conditions: The college student has an account, and is on the school feed
+
 Post-Conditions: Being able to interact with the other students
+
 Main Flow:
+
 1. The college student viewed the posts and gave it a like
+
 2. The college student thinks a post is funny so he gives it a comment to show his thoughts 
 on it
+
 3. The college student messaging the student who posted that post.
+
 Alternative Flows:
+
 1. Being able to block or ban people
+
 2. Being able to report someone's post
 
 
+
 3. Adopted technologies
+
  Include a list of adopted technologies with a brief description and justification for choosing 
  them. 
 
 
 The list of adopted technologies include the following:
+
 1. Slack
+
 2. Trello
+
 3. Android Studio
+
 4. Flutter
+
 5. Firebase
 
 
+
 4. Learning/training 
+
 A strategy we used to understand Flutter, was to look at Flutter tutorials online with simple code 
 examples that we could follow along with. We were able to get a grasp of flutter by 
 understanding the dart coding language with those online tutorials. We all understood how to 
@@ -98,12 +130,14 @@ easier using that platform than android studio.
 
 
 5. Deployment 
+
 Our system will be deployed using the AWS beanstalk software and using containers in docker. 
 Attempted to deploy the application using Amazon beanstalk. However, we were unable to 
 figure out how to deploy our app using containers. Still working on this.. 
 
 
 6. Licensing 
+
 We chose to adopt the GNU GPLv3 license. This gives us the most freedom to share and allow 
 changes to the code without the right of just anyone redistributing the software. We made the 
 decision to use this licence because we wanted to be able to give access to others who want to
@@ -112,13 +146,18 @@ the possibility of anyone taking the idea and redistributing it themselves witho
 
 
 7. Readme File
+
 Readme:https://github.com/mdb435/NCSM/blob/master/README.md
+
 Contributing:https://github.com/mdb435/NCSM/blob/master/CONTRIBUTING.md
+
 License:https://github.com/mdb435/NCSM/blob/master/LICENSE
+
 Code of conduct:https://github.com/mdb435/NCSM/blob/master/CODE_OF_CONDUCT.md
 
 
 8. Look & feel 
+
 The approach that we wanted to go for in this was to look at other existing social media and see 
 what they were doing right and what makes users drawn to using their platform. In doing so we 
 wanted to adopt a look that was similar to these social medias but have enough to be able to 
@@ -136,7 +175,9 @@ which we felt would make a rather friendly user interface.
 ![User Interface3](demoPicThree.PNG)
 
 
+
 9. Lessons 
+
 learned In retrospective, describe what your team learned during this first release and what you 
 are planning to change for the second release. 
 
@@ -151,5 +192,6 @@ calendar event dates, and have a backlog of past posts on the feed.
 
 
 10.Demo 
+
 https://www.youtube.com/watch?v=wZ1CBmecc6U&feature=youtu.be
 
