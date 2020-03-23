@@ -42,10 +42,6 @@ https://www.youtube.com/watch?v=BDRQxfWrozY
 
 For Android Studio, you're able to run an emulation of what the output will be like within the app itself, so be sure that's all set up and it will run with output/display at each run.
 
-## Deployment
-
-Add additional notes about how to deploy this on a live system
-
 ## Built With
 
 * [Flutter](https://flutter.dev/docs) - The web framework used
@@ -53,7 +49,7 @@ Add additional notes about how to deploy this on a live system
 
 ## Contributing
 
-Please read (contributing file to be made) for details on our code of conduct, and the process for submitting pull requests to us.
+Please read [CONTRUBUTION.md](CONTRIBUTION.md) for the process for submitting pull requests to us, and [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md) for our code of conduct.
 
 ## Authors
 
