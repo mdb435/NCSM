@@ -104,11 +104,6 @@ figure out how to deploy our app using containers. Still working on this..
 
 
 6. Licensing 
-Inform the license you adopted for your source code (remember to configure GitHub 
-accordingly) and why you adopted this license. For more information, check 
-https://choosealicense.com/ and http://redhat.slides.com/glikins/open-sourcelicensing-101#/ 
-
-
 We chose to adopt the GNU GPLv3 license. This gives us the most freedom to share and allow 
 changes to the code without the right of just anyone redistributing the software. We made the 
 decision to use this licence because we wanted to be able to give access to others who want to
@@ -157,19 +152,4 @@ calendar event dates, and have a backlog of past posts on the feed.
 
 10.Demo 
 https://www.youtube.com/watch?v=wZ1CBmecc6U&feature=youtu.be
-
-
-FOR BBLEARN COMMENTS: CONTRIBUTIONS
-
-
-Austin Bacon: Converted document to mark down file and uploaded to github
-Ethan Donnelly:
-Miles Barrios: Attempted to get the application deployed using containers and Amazon 
-Beanstalk. Reviewed github pull requests and created comments/merged accordingly. 
-Kevyn Sisante: Wrote out the Licence section and uploaded GNU GPLv3 license to GitHub.
-Mario DeCristofaro: Wrote out our strategies for how we used the different technology(4). Also 
-the lessons our team learned throughout the first release and what we will improve on in the 
-second release(9). Reviewed sections 1-10.
-Jacob Hagan: Worked on creating/updating README, CONTRIBUTION, and 
-CODE_OF_CONDUCT files on the repository. Reviewed sections 1 - 10. 
 
