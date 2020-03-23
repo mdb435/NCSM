@@ -178,10 +178,6 @@ which we felt would make a rather friendly user interface.
 
 9. Lessons 
 
-learned In retrospective, describe what your team learned during this first release and what you 
-are planning to change for the second release. 
-
-
 We learned that having a simple UI helps new users understand the app layout easier. 
 Having too many tabs can clutter up a page. Although, having different means of navigation to 
 certain pages is a must. Also having the backend is important to be able to manage all the data
