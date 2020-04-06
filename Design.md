@@ -60,8 +60,13 @@ The message doesn't get accepted so the other student does not view it
 
 
 6. **Design Principles**
+
 **Single Responsibility Principle:** Our club class only deals with club related responsibilities.
+
 **Opened/Closed Principle:** Our system follows this principle in the way that it is closed to editing page layout, but you can still extend the profile by editing and customizing it.
+
 **Liskov Substitution Principle:** Our system follows this principle in that it is compatible with both IOS and android operating systems without having to change clients on different devices.
+
 **Interface Segregation Principle:** Our system follows this principle by having separate interfaces for different schools.
+
 **Dependency Inversion Principle:** Our system follows this principle by having the class “School” not directly interacted with but by interacting with separate instances of schools.
