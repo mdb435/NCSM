@@ -28,18 +28,31 @@ Trello:  CS386 Project | Trello
 ![User Interface1](sequenceDiagramD5.png)
 
 Use Case: Direct messaging a friend
+
 Actor: College Student
+
 Description: The college student can message their friends on the app
+
 Pre-Conditions: The college student has an account
+
 Post-Conditions: Having the friend see the message and responds back
+
 Main Flow:
+
 The college student searches their contact list for a recipient.
+
 The server calls the database and returns the contact.
+
 The user types a message and presses a button to send the message.
+
 The server retrieves the message and sends it to the desired recipient.
+
 Alternative Flows:
+
 The college student messaged someone whose profile is private and the message had to be accepted for the other student to see it.
+
 The message doesn't get accepted so the other student does not view it
+
 
 
 5. Design Patterns
