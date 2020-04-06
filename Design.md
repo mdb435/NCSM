@@ -26,6 +26,7 @@ Trello:  CS386 Project | Trello
 4. Sequence Diagram
 
 ![User Interface1](sequenceDiagramD5.png)
+
 Use Case: Direct messaging a friend
 Actor: College Student
 Description: The college student can message their friends on the app
