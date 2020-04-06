@@ -56,6 +56,18 @@ The message doesn't get accepted so the other student does not view it
 
 
 5. **Design Patterns**
+**Design Pattern 1: (Structural) Composite:**
+
+Student has the ability to be faculty, and vice versa. User acts as the primitive action that Student and Faculty can take.
+![User Interface1](compositeDesignPattern.png)
+
+**Design Pattern 2: (Behavioral) Template Method:** 
+Overrides the messageFriend(), messageGroup(), and addToGroup() methods, and inherits deleteMessage(), and removeFromGroup() as expected.
+![User Interface1](templatemethod_design_pattern.png)
+
+**Design Pattern 3: (Behavioral) Strategy:** User can send messages, but can pick to either send a group message or a personal message. The system accounts for the slight differences in these actions.
+![User Interface1](strategy_design_pattern.png)
+
 
 
 
