@@ -11,7 +11,7 @@ Trello:  CS386 Project | Trello
 
 2. **Architecture**
 
-![User Interface1](architectureDiagramD5.jpg)
+![User Interface1](https://github.com/mdb435/NCSM/blob/master/Deliverable_Stuff/Deliverable_Images/architectureDiagramD5.jpg)
 
 
 
@@ -19,13 +19,13 @@ Trello:  CS386 Project | Trello
 3. **Class Diagram**
 
 
-![User Interface1](classDiagramD5.png)
+![User Interface1](https://github.com/mdb435/NCSM/blob/master/Deliverable_Stuff/Deliverable_Images/classDiagramD5.png)
 
 
 
 4. **Sequence Diagram**
 
-![User Interface1](sequenceDiagramD5.png)
+![User Interface1](https://github.com/mdb435/NCSM/blob/master/Deliverable_Stuff/Deliverable_Images/sequenceDiagramD5.png)
 
 **Use Case:** Direct messaging a friend
 
@@ -59,22 +59,22 @@ The message doesn't get accepted so the other student does not view it
 **Design Pattern 1: (Structural) Composite:**
 Student has the ability to be faculty, and vice versa. User acts as the primitive action that Student and Faculty can take.
 
-![Composite Pattern](profile_composite.dart)
+![Composite Pattern](https://github.com/mdb435/NCSM/blob/master/profile_composite.dart)
 
-![User Interface1](compositeDesignPattern.PNG)
+![User Interface1](https://github.com/mdb435/NCSM/blob/master/Deliverable_Stuff/Deliverable_Images/compositeDesignPattern.PNG)
 
 **Design Pattern 2: (Behavioral) Template Method:** 
 Overrides the messageFriend(), messageGroup(), and addToGroup() methods, and inherits deleteMessage(), and removeFromGroup() as expected.
 
-![Template Pattern](messages_templatemethod.dart)
+![Template Pattern](https://github.com/mdb435/NCSM/blob/master/messages_templatemethod.dart)
 
-![User Interface1](templatemethod_design_pattern.PNG)
+![User Interface1](https://github.com/mdb435/NCSM/blob/master/Deliverable_Stuff/Deliverable_Images/templatemethod_design_pattern.PNG)
 
 **Design Pattern 3: (Behavioral) Strategy:** User can send messages, but can pick to either send a group message or a personal message. The system accounts for the slight differences in these actions.
 
-![Strategy Pattern](messages_strategy.dart)
+![Strategy Pattern](https://github.com/mdb435/NCSM/blob/master/messages_strategy.dart)
 
-![User Interface1](strategy_design_pattern.PNG)
+![User Interface1](https://github.com/mdb435/NCSM/blob/master/Deliverable_Stuff/Deliverable_Images/strategy_design_pattern.PNG)
 
 
 

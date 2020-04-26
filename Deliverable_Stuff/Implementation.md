@@ -147,13 +147,13 @@ the possibility of anyone taking the idea and redistributing it themselves witho
 
 7. Readme File
 
-Readme:https://github.com/mdb435/NCSM/blob/master/README.md
+![Readme](https://github.com/mdb435/NCSM/blob/master/README.md)
 
-Contributing:https://github.com/mdb435/NCSM/blob/master/CONTRIBUTING.md
+![Contributing](https://github.com/mdb435/NCSM/blob/master/CONTRIBUTING.md)
 
-License:https://github.com/mdb435/NCSM/blob/master/LICENSE
+![License](https://github.com/mdb435/NCSM/blob/master/LICENSE)
 
-Code of conduct:https://github.com/mdb435/NCSM/blob/master/CODE_OF_CONDUCT.md
+![Code of Conduct](https://github.com/mdb435/NCSM/blob/master/CODE_OF_CONDUCT.md)
 
 
 8. Look & feel 
@@ -166,13 +166,13 @@ could select different pages on the app such as profile, notifications, home, ca
 which we felt would make a rather friendly user interface.
 
 
-![User Interface1](feed.PNG)
+![User Interface1](https://github.com/mdb435/NCSM/blob/master/Deliverable_Stuff/Deliverable_Images/feed.PNG)
 
 
-![User Interface2](demoPicTwo.PNG)
+![User Interface2](https://github.com/mdb435/NCSM/blob/master/Deliverable_Stuff/Deliverable_Images/demoPicTwo.PNG)
 
 
-![User Interface3](demoPicThree.PNG)
+![User Interface3](https://github.com/mdb435/NCSM/blob/master/Deliverable_Stuff/Deliverable_Images/demoPicThree.PNG)
 
 
 
