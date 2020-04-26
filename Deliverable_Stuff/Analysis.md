@@ -128,7 +128,7 @@ User Stories:
 
 
 
-![UML Diagram](NCSM/Deliverable_Stuff/Deliverable_Images/D33.png)
+![UML Diagram](https://github.com/mdb435/NCSM/Deliverable_Stuff/Deliverable_Images/D33.png)
 
 
 
