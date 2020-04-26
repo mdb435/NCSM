@@ -147,13 +147,13 @@ the possibility of anyone taking the idea and redistributing it themselves witho
 
 7. Readme File
 
-Readme:![Readme](https://github.com/mdb435/NCSM/blob/master/README.md)
+![Readme](https://github.com/mdb435/NCSM/blob/master/README.md)
 
-Contributing:![Contributing](https://github.com/mdb435/NCSM/blob/master/CONTRIBUTING.md)
+![Contributing](https://github.com/mdb435/NCSM/blob/master/CONTRIBUTING.md)
 
-License:![License](https://github.com/mdb435/NCSM/blob/master/LICENSE)
+![License](https://github.com/mdb435/NCSM/blob/master/LICENSE)
 
-Code of conduct:![Code of Conduct](https://github.com/mdb435/NCSM/blob/master/CODE_OF_CONDUCT.md)
+![Code of Conduct](https://github.com/mdb435/NCSM/blob/master/CODE_OF_CONDUCT.md)
 
 
 8. Look & feel 
