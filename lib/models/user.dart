@@ -44,5 +44,10 @@ class User {
     this.bio = bio;
     displayUser(this);
   }
+  
+  displayInfo(comments)
+  {
+    print( comments );
+  }
 
 }
