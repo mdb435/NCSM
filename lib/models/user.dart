@@ -1,12 +1,12 @@
 import 'package:cloud_firestore/cloud_firestore.dart';
 
 class User {
-  final String id;
-  final String username;
-  final String email;
-  final String photoUrl;
-  final String displayName;
-  final String bio;
+  String id;
+  String username;
+  String email;
+  String photoUrl;
+  String displayName;
+  String bio;
 
   User({
     this.id,
@@ -17,6 +17,7 @@ class User {
     this.bio,
   });
 
+
   factory User.fromDocument(DocumentSnapshot doc) {
     return User(
       id: doc['id'],
@@ -26,6 +27,22 @@ class User {
       displayName: doc['displayName'],
       bio: doc['bio'],
     );
+  }
+
+  void displayUser(User account)
+  {
+    print("The current user is ${account.username} with id : ${this.id} and email : ${this.email}. This is expected");
+  }
+
+  void setAndDisplayUserInformation(String id, String email, String username, String photoUrl, String displayName, String bio)
+  {
+    this.id = id;
+    this.email = email;
+    this.username = username;
+    this.photoUrl = photoUrl;
+    this.displayName = displayName;
+    this.bio = bio;
+    displayUser(this);
   }
 
 }

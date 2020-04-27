@@ -13,13 +13,13 @@ import 'package:flutter/material.dart';
 
 
 class Post extends StatefulWidget {
-  final String postId;
-  final String ownerId;
-  final String username;
-  final String location;
-  final String description;
-  final String mediaUrl;
-  final dynamic likes;
+  String postId;
+  String ownerId;
+  String username;
+  String location;
+  String description;
+  String mediaUrl;
+  dynamic likes;
 
   Post({
     this.postId,
@@ -56,6 +56,22 @@ class Post extends StatefulWidget {
       }
     });
     return count;
+  }
+
+  void createPost( String postId, String ownerId, String username, String location, String description, String mediaUrl, dynamic likes)
+  {
+    this.postId = postId;
+    this.ownerId = ownerId;
+    this.username = username;
+    this.location = location;
+    this.description = description;
+    this.mediaUrl = mediaUrl;
+    this.likes = likes;
+  }
+
+  void displayDiagPost(Post newPost)
+  {
+    print("New Post created with postID: ${newPost.postId}, ownderID: ${newPost.ownerId}, username: ${newPost.username}, location: ${newPost.location}, description : ${newPost.description}, medialURL : ${newPost.mediaUrl}. likes : ${newPost.likes}");
   }
 
   @override
