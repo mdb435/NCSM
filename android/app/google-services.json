@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "760037582988",
+    "firebase_url": "https://unet-9490f.firebaseio.com",
+    "project_id": "unet-9490f",
+    "storage_bucket": "unet-9490f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:760037582988:android:9a5e44b586a3fcadb1f3a9",
+        "android_client_info": {
+          "package_name": "com.ethandonnelly.collegeapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "760037582988-bn7ht7jd7epsthcij1rh043bi7hd0e4d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ethandonnelly.collegeapp",
+            "certificate_hash": "c377ba80e56284522837b1555cb285ada7bbd64a"
+          }
+        },
+        {
+          "client_id": "760037582988-nrsbqta9310b7s9f2ikk2fhkm2g0fbnk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGaypgIvJKQcw0DBsJitl3jzXRD46ksSY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "760037582988-nrsbqta9310b7s9f2ikk2fhkm2g0fbnk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "760037582988-4a61rsengbf41j4m8gl3b8rmo3ldbivs.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ethandonnelly.collegeapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
